@@ -9,6 +9,9 @@ have multiple teams, with multiple users, easy and efficient reporting by all/te
 Check out the screenshots to see how nice it looks, and feel fee to contribute by sending us PRs.
 We will keep adding features as we need them, but our basic workflow is totally covered :D
 
+## New Feature
+· User Portal (create new tickets)
+
 ## Features
 · Email polling (new tickets and tickets updates)    
 · Email attachments as ticket attachments (using laravel storage driver)
